@@ -1,0 +1,13 @@
+127.0.0.1       localhost
+# controller
+20.0.2.11       controller
+# compute
+20.0.2.31       compute
+# block
+20.0.2.41       block-storage
+# object1
+20.0.2.51       object-storage
+# object2
+20.0.2.52       object-storage2
+#network
+20.0.2.61	network
